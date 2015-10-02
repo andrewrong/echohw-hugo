@@ -1,0 +1,8 @@
+baseurl = "http://andrewrong.github.io"
+languageCode = "en-us"
+title = "Wing"
+theme = "hyde"
+
+[params]
+    description = "This is Wing's Blog"
+    themeColor = "theme-base-08" 
