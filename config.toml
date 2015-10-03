@@ -1,4 +1,4 @@
-baseurl = "http://andrewrong.github.io"
+baseurl = "frgeeks.com"
 languageCode = "en-us"
 title = "Wing"
 theme = "hyde"
@@ -6,3 +6,4 @@ theme = "hyde"
 [params]
     description = "This is Wing's Blog"
     themeColor = "theme-base-08" 
+    disqusShortname = "frgeekscom"
