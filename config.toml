@@ -1,3 +1,4 @@
+baseurl = "http://frgeeks.com/"
 languageCode = "en-us"
 title = "Wing"
 theme = "hyde"
